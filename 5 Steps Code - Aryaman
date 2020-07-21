@@ -32,3 +32,17 @@ print(dfOfStatesAndTotalDeathsArrhythmia.shape)
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+sns.catplot(x="state", y="total_COVID-19_deaths", kind="bar", data=dfOfStatesAndTotalDeaths) # total
+plt.xticks(rotation=-90)
+sns.set(font_scale=0.7)
+plt.title("Total COVID-19 Deaths by State")
+plt.show()
+
+sns.catplot(x="state", y="total_COVID-19_deaths", kind="bar", data=dfOfStatesAndTotalDeathsArrhythmia) # just Arrhythmia
+plt.xticks(rotation=-90)
+sns.set(font_scale=0.7)
+plt.title("COVID-19 Deaths by State for Total Age Groups With Arrhythmia")
+plt.show()
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
