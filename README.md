@@ -1,6 +1,6 @@
 # How Nicotine Withdrawal Effects COVID-19
 
-This repository contains the code for our paper ["A Computational Analysis of the Effect of Nicotine Withdrawal on Cardiac Arrhythmia and its Relationship with COVID-19 Mortality Rates"](https://www.academia.edu/45044054/A_Computational_Analysis_of_the_Effect_of_Nicotine_Withdrawal_on_Cardiac_Arrhythmia_and_its_Relationship_with_COVID_19_Mortality_Rates) by Ayaan Haque (Project Lead), Aryaman Kukal, Yamuna Rao, and David Cho, and was accepted for publication to the Journal of Student Research. This research was conducted as part of the ASDRP Summer Program under advisorship of Keshav Rao. 
+This repository contains the code for our paper ["A Computational Analysis of the Effect of Nicotine Withdrawal on Cardiac Arrhythmia and its Relationship with COVID-19 Mortality Rates"](https://www.academia.edu/45044054/A_Computational_Analysis_of_the_Effect_of_Nicotine_Withdrawal_on_Cardiac_Arrhythmia_and_its_Relationship_with_COVID_19_Mortality_Rates) by Ayaan Haque (Project Lead), Aryaman Kukal, Yamuna Rao, and David Cho, and was accepted for publication to the Journal of Student Research. This research was conducted as part of the Aspiring Scholars Directed Research Program under the advisorship of Keshav Rao. 
 
 ## Abstract
 
