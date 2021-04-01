@@ -1,6 +1,12 @@
 # How Nicotine Withdrawal Effects COVID-19
 
-This repository contains the code for our paper ["A Computational Analysis of the Effect of Nicotine Withdrawal on Cardiac Arrhythmia and its Relationship with COVID-19 Mortality Rates"](https://www.academia.edu/45044054/A_Computational_Analysis_of_the_Effect_of_Nicotine_Withdrawal_on_Cardiac_Arrhythmia_and_its_Relationship_with_COVID_19_Mortality_Rates) by Ayaan Haque (Project Lead), Aryaman Kukal, Yamuna Rao, and David Cho, and was accepted for publication to the [Journal of Student Research](https://www.jofsr.org/index.php/path). This research was conducted as part of the Aspiring Scholars Directed Research Program under the advisorship of Keshav Rao. 
+This repository contains the code for our paper ["A Computational Analysis of the Effect of Nicotine Withdrawal on Cardiac Arrhythmia and its Relationship with COVID-19 Mortality Rates"](https://www.jsr.org/hs/index.php/path/article/view/1302) by Ayaan Haque (Project Lead), Aryaman Kukal, Yamuna Rao, and David Cho, and was accepted for publication to the [Journal of Student Research](https://www.jofsr.org/index.php/path). This research was conducted as part of the Aspiring Scholars Directed Research Program under the advisorship of Keshav Rao. 
+
+Preprint: https://www.academia.edu/45044054
+
+Journal URL: https://www.jsr.org/hs/index.php/path/article/view/1302
+
+DOI: https://doi.org/10.47611/jsrhs.v10i1.1302
 
 ## Abstract
 
@@ -18,7 +24,8 @@ If you found this paper or code useful, please consider citing.
   volume= {10},
   number= {1},
   year={2021},
-  month = {February},
-  publisher={JOFSR}
+  month = {Mar.},
+  url={https://www.jsr.org/hs/index.php/path/article/view/1302},
+  DOI={10.47611/jsrhs.v10i1.1302}
 }
 ```
